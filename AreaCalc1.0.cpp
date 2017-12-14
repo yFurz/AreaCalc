@@ -3,10 +3,10 @@
 #include <cstdlib>
 
 //|--------------------------------------//
-//|Medidor de área						|
-//|Autor: Julimar J. Freitas Melo		|
+//|Medidor de Ã¡rea						|
+//|Autor: Julimar J. Freitas Melo (yFurz)		|
 //|14-12-2017							|
-//|Versão: 1.0							|
+//|VersÄƒo: 1.0							|
 //|-------------------------------------//
 
 using namespace std;
@@ -48,7 +48,7 @@ int main()
 
 	 
 	cout << "|--------------------------------------\n";
-	cout << "| Qual figura você quer medir a área?   \n";
+	cout << "| Qual figura vocÄ™ quer medir a Ã¡rea?   \n";
 	cout << "| 1 - Quadrado							 \n";
 	cout << "| 2 - Circulo							 \n";
 	cout << "| 3 - Retangulo						 \n";
@@ -113,7 +113,7 @@ int main()
 			cout << "| Resultado: " << aux5 << " M2 " << "\n";
 			
 		default:
-			cout << "Erro tipo de área não encontrado!";
+			cout << "Erro tipo de Ã¡rea nÄƒo encontrado!";
 			break;
 		
 	}
